@@ -30,15 +30,15 @@
    - Confusion matrix (Recall, Precision, F1, accuracy and etc)
    - Balanced data and sampling (over, under, smote)
 10. seminar 10 - Decision trees
-   - for regression/classififcation, hyperparameters
-   - oblivious decision trees
+    - for regression/classififcation, hyperparameters
+    - oblivious decision trees
 11. seminar 11 - Ensembles in Machine Learning
-   - bagging, boosting, staking
-   - bias-variance decomposition
-   - extra-trees - got insane boost on one Kaggle competition with them
+    - bagging, boosting, staking
+    - bias-variance decomposition
+    - extra-trees - got insane boost on one Kaggle competition with them
 12. seminar 12 - Gradient boosting
-   - CatBoost vs XGBoost
-   - parallel training on CPU ang GPU
-   - Visualization
-   - Binarization
-   - Feature importance
+    - CatBoost vs XGBoost
+    - parallel training on CPU ang GPU
+    - Visualization
+    - Binarization
+    - Feature importance
