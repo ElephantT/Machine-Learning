@@ -13,4 +13,7 @@
 4. seminar 4 - PyTorch and NN
    - PyTorch
    - MNIST binary and 10 classes classification
-5. seminar 5
+5. seminar 5 - kNN
+   - kNN
+   - Scaling
+6. seminar 6 - a
