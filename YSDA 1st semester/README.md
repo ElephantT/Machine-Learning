@@ -1,7 +1,7 @@
 1st semester of Machine Learning at Yandex School of Data Analysis:
-1. seminar 1
+1. seminar 1 - Libraries
    - NumPy, Matplotlib, Plotly, Seaborn
-2. seminar 2
+2. seminar 2 - Linear Models
    - Linear models
    - Feature Engineering
    - Models training, hyperparameter tuning
@@ -10,3 +10,7 @@
    - Linaer SVM
    - Different kernels for SVM
    - Categorical features
+4. seminar 4 - PyTorch and NN
+   - PyTorch
+   - MNIST binary and 10 classes classification
+5. seminar 5
