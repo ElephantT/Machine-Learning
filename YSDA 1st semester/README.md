@@ -25,3 +25,6 @@
    - PCA for face images
    - t-SNE
    - One vs One, One vs Rest
+9. seminar 9 - Metrics and Sampling
+   - Confusion matrix (Recall, Precision, F1, accuracy and etc)
+   - Balanced data and sampling (over, under, smote)
