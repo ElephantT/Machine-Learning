@@ -2,7 +2,7 @@
 1. seminar 1 - NN and CV
    - Conv layers theory
    - PyTorch intro
-   - a lot of different PyTorh datasets and dataloaders
+   - a lot of different PyTorh datasets (CIFAR10 & 100, variations of MNIST, CelebA, STL10, SVHN) and dataloaders
    - NN on dense layers for CV (design, optimization, learning loop, traing and etc)
    - NN on conv layers for CV (design, optimization, learning loop, traing and etc)
    - representations: NN intermidiate results, Convolutional representation, t-SNE
