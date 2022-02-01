@@ -16,4 +16,12 @@
 5. seminar 5 - kNN
    - kNN
    - Scaling
-6. seminar 6 - a
+6. seminar 6 & 7 - Bayes
+   - Bayesian approach for ML, theory
+   - Bayesian models
+   - KDE - Kernel Density Estimator
+8. seminar 8 - Dimensionality reduction methods and Multiclass classification
+   - PCA, Kernel PCA
+   - PCA for face images
+   - t-SNE
+   - One vs One, One vs Rest
