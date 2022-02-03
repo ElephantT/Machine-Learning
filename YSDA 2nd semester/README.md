@@ -8,5 +8,10 @@
    - Representations: NN intermidiate results, Convolutional representation, t-SNE
    - Improving convolutional models quality (augmentantations and etc)
    - Finetuning and transfer learning
+2. seminar 2 - NLP, RNNs and Embeddings
+   - RNNs - RNN, LSTM, GRU, bi-Directional and etc
+   - Datasets - AG_NEWS, Yahoo answers and etc
+   - Full rnns training process
+   - Embeddings - word2vec (CBOW, Skip-gram), GloVe, FastText, ELMo
 
 
