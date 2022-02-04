@@ -13,5 +13,9 @@
    - Datasets - AG_NEWS, Yahoo answers and etc
    - Full rnns training process
    - Embeddings - word2vec (CBOW, Skip-gram), GloVe, FastText, ELMo
-
+3. seminar 3 - DL tricks, STL10 dataset
+   - Implementation of nn with residual blocks
+   - Finetuning and Transfer learning
+   - LR schedules
+   - How to fight overfitting + other tricks: warm up, label smoothing, gradient clipping, learn on addversatial attacked data, knowledge distilation and etc
 
