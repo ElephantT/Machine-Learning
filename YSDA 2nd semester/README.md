@@ -18,4 +18,6 @@
    - Finetuning and Transfer learning
    - LR schedules
    - How to fight overfitting + other tricks: warm up, label smoothing, gradient clipping, learn on addversatial attacked data, knowledge distilation and etc
-
+4. seminar 4 - Reinforcement learning
+   - OpenAI gym (enviroments, policies)
+   - Evolution strategies (implemented 3 different models: random, NN, NN with paralleled training)   
