@@ -1,6 +1,6 @@
-### Win prediction of DOTA 2 games - binary classification problem (ROC-AUC metric)
+# Win prediction of DOTA 2 games - binary classification problem (ROC-AUC metric)
 
-# additional info (ru) about project on [Kaggle](https://www.kaggle.com/c/competition-1-yandex-shad-spring-2021) 
+#### additional info (ru) about project on [Kaggle](https://www.kaggle.com/c/competition-1-yandex-shad-spring-2021) 
 
 What have been done in current project and its results:
 1. Data preprocessing and analysis:
