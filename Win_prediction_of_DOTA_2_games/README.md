@@ -21,17 +21,7 @@ What have been done in current project and its results:
    -- L1 regularization for Logistic Regression model for feature importance
 2. Hyperparameters tuning (GridSearch, cross-validation):
 ![image](https://user-images.githubusercontent.com/33278581/152741749-1c5b9cd6-2491-4f38-896f-224a4be9e709.png)
-
 3. Learning curves and analysis:
 ![image](https://user-images.githubusercontent.com/33278581/152741847-6a9660b3-21d2-4fea-8190-de164bdcfed2.png)
-
-
-3. GridSearch, KFold, cross-validation, mean values and confidence intervals
-4. data scaling, and why it is needed
-5. Learning curves
-6. One-hot-encoding for categorical data
-7. Implementation of new classification model (by sklearn template) for blending different models
-8. box-plots to compare probability distributions of each models
-
-
-hyperparameter tuning (grid search, ; cross-validation/train-val-test splits; conducting correct experiments; how to compare different models
+4. Final model: implemented with sklearn template blend model of different classifiers
+5. For model comparing I used box-plots, to see and check probability distributions of each model
