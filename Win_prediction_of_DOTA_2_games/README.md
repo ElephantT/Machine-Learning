@@ -6,7 +6,7 @@ What have been done in current project and its results:
 1. Data preprocessing and analysis:
    ![image](https://user-images.githubusercontent.com/33278581/152741483-9b0bea7b-061a-46ae-94a2-49d0406fe5a7.png)
    - missing values:
-   -- Conducted reaserch on how to deal with them in different cases
+     - Conducted reaserch on how to deal with them in different cases
    - outliers detection:
    -- Used box-plots for each feature and used my understanding of the problem, what is possible and what is not
    - data scaling (conducted research on scaling impact for different models) -> for many models we need normalized data for different reasons:
@@ -20,7 +20,6 @@ What have been done in current project and its results:
    - feature selection:
    -- L1 regularization for Logistic Regression model for feature importance
 2. Hyperparameters tuning (GridSearch, cross-validation):
-![image](https://user-images.githubusercontent.com/33278581/152741749-1c5b9cd6-2491-4f38-896f-224a4be9e709.png)
 3. Learning curves and analysis:
 ![image](https://user-images.githubusercontent.com/33278581/152741847-6a9660b3-21d2-4fea-8190-de164bdcfed2.png)
 4. Final model: implemented with sklearn template blend model of different classifiers
