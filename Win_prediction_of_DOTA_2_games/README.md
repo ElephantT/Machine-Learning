@@ -22,5 +22,5 @@ What have been done in current project and its results:
 2. Hyperparameters tuning (GridSearch, cross-validation):
 3. Learning curves and analysis:
 ![image](https://user-images.githubusercontent.com/33278581/152741847-6a9660b3-21d2-4fea-8190-de164bdcfed2.png)
-4. Final model: implemented with sklearn template blend model of different classifiers
+4. Final model: implemented with sklearn template blend model of different classifiers (MLP, SVM, LogisticRegression)
 5. For model comparing I used box-plots, to see and check probability distributions of each model
