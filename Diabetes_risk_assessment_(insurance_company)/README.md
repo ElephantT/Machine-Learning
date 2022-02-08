@@ -61,7 +61,7 @@ and true class labels was chosen as a quality metric:
 
 ![gif](https://i.imgur.com/2dKCQHh.gif)
 
-![image](https://user-images.githubusercontent.com/33278581/152936371-b1c0ea4e-d637-4b73-9904-e65389272c70.png)
+![gif](https://i.imgur.com/pD0hWu5.gif)
 
 (https://imgur.com/a/Hqolp)
 
