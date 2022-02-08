@@ -47,9 +47,7 @@ and true class labels was chosen as a quality metric:
    - check different weight init/regularizations/learning rates
    - optimizing likelihood function
 
-<p align="center">
-  <img src="https://user-images.githubusercontent.com/33278581/152935069-70e7efc0-62ba-465d-b894-5b83622796fd.png1">
-</p>
+![image](https://user-images.githubusercontent.com/33278581/152935069-70e7efc0-62ba-465d-b894-5b83622796fd.png)
 
 ![image](https://user-images.githubusercontent.com/33278581/152935262-d94c5a5d-94eb-444c-a57b-01d572a79f3c.png)
 
