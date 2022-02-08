@@ -59,7 +59,7 @@ and true class labels was chosen as a quality metric:
 
 10. Implementation of Momentum-sgd + Adagrad-sgd + Adadelta-sgd
 
-![image](https://user-images.githubusercontent.com/33278581/152936317-9daf81fa-d9b1-43e7-9302-4b78af26536b.png)
+![gif](https://i.imgur.com/2dKCQHh.gif)
 
 ![image](https://user-images.githubusercontent.com/33278581/152936371-b1c0ea4e-d637-4b73-9904-e65389272c70.png)
 
