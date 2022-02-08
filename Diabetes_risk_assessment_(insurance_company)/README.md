@@ -39,7 +39,9 @@ and true class labels was chosen as a quality metric:
   <img src="https://user-images.githubusercontent.com/33278581/152933913-568e8ad6-83f1-46ef-ad9e-4de057fc33f9.png">
 </p>
 6. Generalized Linear Models - no improving
+
 7. Hazard function implementation (risk to get ill in time T if client was healthy before and healthy in moment T, non personalized metric)
+
 8. Cox Proportional Hazard Model implementation (Hazard function + using features of each client)
    - sklearn template
    - check different weight init/regularizations/learning rates
