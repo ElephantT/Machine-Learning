@@ -13,5 +13,5 @@ a person who does not suffer from a disease will develop it within 5 years. Ther
 and true class labels was chosen as a quality metric:
 
 <p align="center">
-  ![image](https://user-images.githubusercontent.com/33278581/152930406-a63d8a47-d052-491f-addd-955f5d1872d8.png)
+  <img src="https://user-images.githubusercontent.com/33278581/152930406-a63d8a47-d052-491f-addd-955f5d1872d8.png">
 </p>
