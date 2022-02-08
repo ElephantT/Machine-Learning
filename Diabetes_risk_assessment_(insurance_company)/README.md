@@ -34,6 +34,7 @@ and true class labels was chosen as a quality metric:
 5. Logistic Regression - best result for now (log loss - 0.0612)
    - https://stats.stackexchange.com/questions/95247/logistic-regression-vs-lda-as-two-class-classifiers
    - For a two class classification problem, LDA predicts two normal density functions (one for each class) that creates a linear boundary where they intersect, whereas logistic regression only predicts the log-odd function between the two classes, which creates a boundary but does not assume density functions for each class.
+
 <p align="center">
   <img src="https://user-images.githubusercontent.com/33278581/152933913-568e8ad6-83f1-46ef-ad9e-4de057fc33f9.png">
 </p>
@@ -43,19 +44,31 @@ and true class labels was chosen as a quality metric:
    - sklearn template
    - check different weight init/regularizations/learning rates
    - optimizing likelihood function
+
 <p align="center">
   <img src="https://user-images.githubusercontent.com/33278581/152935069-70e7efc0-62ba-465d-b894-5b83622796fd.png1">
 </p>
+
 ![image](https://user-images.githubusercontent.com/33278581/152935262-d94c5a5d-94eb-444c-a57b-01d572a79f3c.png)
+
 ![image](https://user-images.githubusercontent.com/33278581/152935389-11bd36df-ddf8-4da2-a799-76b0c849bd65.png)
+
 9. Stochastic Gradient Decent implementation - same analysis as for CPHM for point 8
+
 ![image](https://user-images.githubusercontent.com/33278581/152935625-bfbfb9dc-e517-4cbd-82fe-3690c0890707.png)
+
 10. Implementation of Momentum-sgd + Adagrad-sgd + Adadelta-sgd
+
 ![image](https://user-images.githubusercontent.com/33278581/152936317-9daf81fa-d9b1-43e7-9302-4b78af26536b.png)
+
 ![image](https://user-images.githubusercontent.com/33278581/152936371-b1c0ea4e-d637-4b73-9904-e65389272c70.png)
+
 (https://imgur.com/a/Hqolp)
+
 11. Calibration of classification models
+
 ![image](https://user-images.githubusercontent.com/33278581/152938623-9d8bfc00-2de0-4f29-bb67-ae2d5c604a22.png)
+
 ![image](https://user-images.githubusercontent.com/33278581/152938658-1e9b40bb-3800-4051-9e47-9f50dceeba88.png)
 
 
