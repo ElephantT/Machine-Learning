@@ -12,4 +12,4 @@ In order to calculate the expected cost of a client's treatment, the insurance c
 a person who does not suffer from a disease will develop it within 5 years. Therefore, binary cross entropy (aka logloss) between predicted probabilities 
 and true class labels was chosen as a quality metric:
 
-![image](https://user-images.githubusercontent.com/33278581/152930406-a63d8a47-d052-491f-addd-955f5d1872d8.png)
+<p align="center">![image](https://user-images.githubusercontent.com/33278581/152930406-a63d8a47-d052-491f-addd-955f5d1872d8.png)</p>
