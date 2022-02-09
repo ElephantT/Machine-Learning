@@ -37,5 +37,5 @@ in vector as object, and we need to select only important using different strate
 
 ![image](https://user-images.githubusercontent.com/33278581/153243890-c0ab6531-7ee7-4310-9cc4-56a0e93c4a4a.png)
 
-10. Complex final model for kaggle - stacking of 8 different internally models with data transformation for each of them and probabilities calibration where it is need
+10. Complex final model for kaggle - stacking of 8 different internally models with data transformation for each of them and probabilities calibration where it is needed
 
